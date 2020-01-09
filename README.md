@@ -5,7 +5,7 @@
 * 실행결과 
 * 근은 2.0
 * 근은 1.0
-----------------------------------------------
+~~~
 package Lab;
 
 public class QuadraticEquationRoot {
