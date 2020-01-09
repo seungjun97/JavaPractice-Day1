@@ -7,6 +7,7 @@ package Lab;
 /* 실행결과 
  * 근은 2.0
  * 근은 1.0 */
+ 
 public class QuadraticEquationRoot {
 	public static void main(String args[]) {
 		double root1, root2;
